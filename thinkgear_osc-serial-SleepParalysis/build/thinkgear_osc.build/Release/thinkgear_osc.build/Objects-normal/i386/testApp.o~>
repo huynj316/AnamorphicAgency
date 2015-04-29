@@ -1,0 +1,2 @@
+/Applications/of_v0.7.4_osx_release/apps/myApps/thinkgear_osc-SleepParalysis/src/testApp.cpp: In member function 'virtual void testApp::draw()':
+/Applications/of_v0.7.4_osx_release/apps/myApps/thinkgear_osc-SleepParalysis/src/testApp.cpp:136: error: 'scaledMeditation' was not declared in this scope
